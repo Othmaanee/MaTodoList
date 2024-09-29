@@ -18,3 +18,5 @@ Cette application de To-Do List vous permet de gérer vos tâches de manière si
 1. Clonez ce dépôt sur votre machine :
    ```bash
    git clone https://github.com/utilisateur/nom_du_depot.git
+
+**Contact** : Othmane TADJOURI | tadjouriothmane@gmail.com
